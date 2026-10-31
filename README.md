@@ -1,10 +1,10 @@
-# 👋🧩 Morphe Patches template
+# 👋🧩 kirihime's patches
 
-Template repository for Morphe Patches.
+A collection of Morphe patches for apps I use.
 
 ## ❓ About
 
-Patches for apps I like.
+Custom Morphe patches for tweaking Android apps.
 
 <!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
 
@@ -12,7 +12,7 @@ Patches for apps I like.
 
 Click the button below, or manually add this repo url to Morphe Manager: https://github.com/xyz-user/xyz-patches
 
-<a href="https://morphe.software/add-source?github=xyz-user/xyz-patches">
+<a href="https://morphe.software/add-source?github=kirihime9/morphe-patches">
   <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
 </a>
 
@@ -100,4 +100,4 @@ See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+Kirihime's Patches are licensed under the [GNU General Public License v3.0](LICENSE)
