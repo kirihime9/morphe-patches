@@ -89,14 +89,16 @@ To develop and release your Patches using this template:
      this readme of all developer instructions above. -->
 <!-- PATCHES_END -->
 
-### 🛠️ Building locally
+## Disclaimer
 
-- Run `./gradlew buildAndroid`
-- The built patches .mpp file is found in `patches/build/libs/patches-*.mpp`
-- Patch the mpp file using [Morphe-Desktop](https://github.com/MorpheApp/morphe-desktop)
-  like any other patch bundle.
+These patches are provided as is, without warranty of any kind, for educational and personal use only.
 
-See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation) for more information.
+- **Only use them with apps you legally own.** They're for learning, accessibility changes, and tweaking your own software. They're not a piracy tool: Don't use them to get paid apps, subscriptions or unlicensed content, and don't share patched copies of anyone's apps.
+- **No apps are shared here.** The repository contains patch source code. It hosts no APKs.
+- **Non-Commercial Project.** There are no paid features, ads, or items for sale. Do not pay anyone for these patches or pre-patched apps.
+- **Use at your own risk.** Modifying apps may violate terms of service and could lead to account bans, data loss, or app failure. The authors accept no liability for any resulting issues and do not guarantee that these patches will work on all apps or versions.
+- **No affiliation.** This project is not connected to or endorsed by Google, Morphe, ReVanced, or any app developer. All trademarks belong to their respective owners.
+- **Takedown requests.** If you own the rights to something here and think it's infringing, just open an issue. Tell us exactly which file or patch is the problem and why, and we'll review it promptly and fairly.
 
 ## 📜 License
 
