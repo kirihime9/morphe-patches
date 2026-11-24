@@ -1,12 +1,8 @@
+<div align="center">
+
 # 👋🧩 kirihime's patches
 
-A collection of Morphe patches for apps I use.
-
-## ❓ About
-
-Custom Morphe patches for tweaking Android apps.
-
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+Patches for Android apps to use with Morphe
 
 ### How to use these patches
 
@@ -15,6 +11,8 @@ Click the button below, or manually add this repo url to Morphe Manager: https:/
 <a href="https://morphe.software/add-source?github=kirihime9/morphe-patches">
   <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
 </a>
+
+</div>
 
 ## 🩹 Patches list
 
